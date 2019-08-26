@@ -6,9 +6,9 @@ Returns an array of objects that are unique by your selected key.
 
 `npm i @tomanagle/deepset`
 
+```JavaScript
 import deepSet from '@tomanagle/deepset';
 
-```javascript
 deepSet(
   [
     {
@@ -37,3 +37,5 @@ deepSet(
     }
 */
 ```
+
+Time complexity: ~~11~~
